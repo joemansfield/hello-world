@@ -1,2 +1,7 @@
 # hello-world
-Intro to Git
+Intro to Git.
+
+Joe <b>Mansfield
+  -one
+  -two
+  
